@@ -1,0 +1,21 @@
+{
+  "name": "TheWorld",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "*",
+    "jquery-validation": "*",
+    "jquery-validation-unobtrusive": "*",
+    "bootstrap": "*",
+    "font-awesome": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
